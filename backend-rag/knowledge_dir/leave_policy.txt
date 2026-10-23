@@ -1,0 +1,4 @@
+EcoOps Leave Rules:
+Full-time developers are allocated 18 days of paid annual leave per calendar year.
+Leave requests exceeding 3 consecutive days require manager approval 2 weeks in advance.
+Maternity leave is structured at 26 weeks, and paternity leave is fixed at 2 weeks.
